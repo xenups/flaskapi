@@ -17,7 +17,7 @@ flask_marshmallow==0.8.0
 marshmallow-sqlalchemy==0.13.2
 flask_restful==0.3.6
 flask_script==2.0.6
-pipenv==2018.11.26
+pipenv==2022.1.8
 psycopg2==2.8.3
 pycparser==2.19
 PyJWT==1.7.1
